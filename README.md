@@ -2,3 +2,8 @@ This project is for using Raspberry Pi Pico with OBI project https://github.com/
 <p align="center">
  <img width="1000px" src="doc/Scheme.png" alt="qr"/>
 </p>
+1. Install MicroPython to Pico
+2. Copy dir usb and files boot.py, main.py, onewireM.py
+<p align="center">
+ <img width="1000px" src="doc/thonny.png" alt="qr"/>
+</p>
